@@ -1,0 +1,9 @@
+Triple-quoted strings are useful any time you need multiline text in your program; for
+example, to embed multiline error messages or HTML or XML code in your source
+code files. You can embed such blocks directly in your scripts without resorting to
+external text files or explicit concatenation and newline characters.
+
+Triple-quoted strings are also commonly used for documentation strings, which are
+string literals that are taken as comments when they appear at specific points in your
+file (more on these later in the book). These don’t have to be triple-quoted blocks, but
+they usually are to allow for multiline comments.
