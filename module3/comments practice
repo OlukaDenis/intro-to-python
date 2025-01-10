@@ -1,0 +1,19 @@
+# Display the menu options
+print("Lunch Menu")
+print("----------")
+print("Chapati")
+print("Kikomando")
+print("Nsenene")
+print("Atapa")
+print("Ugali")
+print() # End of menu
+
+# Get the user's preferences
+print("Choose Food item from menu")
+item1 = input(" #1: ")
+item2 = input(" #2: ")
+item3 = input(" #3: ")
+item4 = input(" #4: ")
+item5 = input(" #5: ")
+item6 = input(" #6: ")
+
